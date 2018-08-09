@@ -1,5 +1,5 @@
 {
-  "name": "screwdriver-quickstart-nodejs",
+  "name": "ykang-screwdriver-quickstart-nodejs",
   "version": "1.0.0",
   "description": "A quickstart repository, which serves as an example of how to use Screwdriver with NodeJS",
   "main": "index.js",
@@ -25,7 +25,6 @@
     "url": "https://github.com/screwdriver-cd-test/quickstart-nodejs/issues"
   },
   "homepage": "https://github.com/screwdriver-cd-test/quickstart-nodejs#readme",
-  "private": true,
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
