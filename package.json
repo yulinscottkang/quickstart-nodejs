@@ -1,6 +1,6 @@
 {
   "name": "ykang-screwdriver-quickstart-nodejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A quickstart repository, which serves as an example of how to use Screwdriver with NodeJS",
   "main": "index.js",
   "scripts": {
